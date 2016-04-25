@@ -1,0 +1,149 @@
+
+
+.card_waterbike{
+  position: relative;
+  height: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/waterbike/bannerwaterbikeindex.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.card_soinsvisage{
+  position: relative;
+  height: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/index/soinsvisage.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.card_soinsvisage:hover{
+  position: relative;
+  height: 250px;
+  background: url("../../images/index/soinsvisage.jpg");
+  background-size: cover;
+  color: transparent;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+  transition: all 0.3s ease;
+}
+
+.card_soinscorps{
+  position: relative;
+  height: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/index/soinscorps.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.card_rituels{
+  position: relative;
+  height: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/index/rituels.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.card_hammam{
+  position: relative;
+  height: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/hammam/hammamfond.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.card_autresprestations{
+  position: relative;
+  height: 250px;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/index/autresprestations.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+
+
+
+.card-user {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.card-category {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.card-description {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.containergris{
+background-color: #F4F7F8;
+height: auto;
+padding: 40px 40px 40px 40px;
+}
+
+
+
+.containergris img{
+  width:200px;
+}
+
+.containergris h2{
+  padding-bottom: 40px;
+}
+
+.containergris h3{
+  font-size: 25px;
+  color: #384047;
+}
+.containergris h4{
+  font-size: 16px;
+  font-weight: lighter;
+  color: #576366;
+}
+.containergris p{
+  padding-bottom: 10px;
+}
+
+.containerblanc{
+background-color: #FFFFFF;
+height: auto;
+padding: 40px 40px 40px 40px;
+}
+
+.containerblanc img{
+  width:200px;
+}
+
+.containerblanc h2{
+  padding-bottom: 40px;
+}
+
+.containerblanc h3{
+  font-size: 25px;
+  color: #384047;
+}
+.containerblanc h4{
+  font-size: 16px;
+  font-weight: lighter;
+  color: #576366;
+}
+.containerblanc p{
+  padding-bottom: 10px;
+}
+
+

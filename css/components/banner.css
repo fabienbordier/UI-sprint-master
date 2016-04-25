@@ -1,0 +1,81 @@
+.banner {
+  height: 100vh;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/bougie.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.bannerwaterbike{
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/waterbike/waterbikefond.jpg");
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bannerrituels{
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/rituels/rituelfond.jpg");
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bannerhammam{
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/hammam/hammamfond.jpg");
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bannersoinscorps{
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/soinscorps/bannersoinscorps.jpg");
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bannersoinsvisage{
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/soinsvisage/bannersoinsvisage.jpg");
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bannerprestations{
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/soinsvisage/autresprestations.jpg");
+  height: 75vh;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.banner h2{
+  margin-bottom: 50px;
+}

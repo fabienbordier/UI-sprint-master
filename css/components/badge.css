@@ -1,0 +1,23 @@
+.badge {
+  line-height: 40px !important;
+  width: 40px !important;
+  padding: 0 !important;
+  background: #16B3D9 !important;
+  position: relative !important;
+  top: -75px !important;
+  left: -45px !important;
+  border-radius: 50% !important;
+}
+
+.label span {
+  font-size: 16px;
+}
+
+line-height: 40px !important;
+  width: 40px !important;
+  padding: 0 !important;
+  background: #16B3D9 !important;
+  position: relative !important;
+  top: -75px !important;
+  left: -45px !important;
+  border-radius: 50% !important;

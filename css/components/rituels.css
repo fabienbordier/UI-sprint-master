@@ -1,0 +1,27 @@
+.cardrituels{
+	padding: 40px 40px 40px 40px;
+	background-color: #F4F7F8;
+}
+
+.cardrituels img{
+	border-radius: 6px;
+}
+
+
+.tour{
+	background: #FFF;
+    border-radius: 6px;
+    border: solid 2px #e9f0f3;
+    padding: 10px 10px 10px 10px;
+    min-height: 290px;
+    position: relative;
+    overflow: hidden;
+    margin: 10px 10px 10px 10px;
+}
+
+.tour p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+

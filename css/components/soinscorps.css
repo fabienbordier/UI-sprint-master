@@ -1,0 +1,18 @@
+
+
+.gommage_container{
+padding: 40px 40px 40px 40px;
+background-color: #F4F7F8;
+}
+
+.enveloppement_container{
+padding: 40px 40px 40px 40px;
+}
+
+.gommage_container p{
+padding-bottom: 30px;
+}
+
+.enveloppement_container p{
+padding-bottom: 30px;
+}
