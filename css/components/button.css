@@ -19,6 +19,7 @@
   border-radius: 4px;
   font-weight: bold;
   background: #6AD58B;
+  text-decoration: none;
 }
 
 .btn-treehouse:hover {
@@ -27,3 +28,5 @@
   text-decoration: none;
   color: white;
 }
+
+

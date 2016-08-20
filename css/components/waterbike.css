@@ -2,8 +2,32 @@
   	width: 200px;
 }
 
+.results{
+	margin:15px 15px 15px 15px;
+}
+
 .machine{
 	background-color: #F4F7F8;
 	margin-top: 40px;
 }
 
+
+.logopresse img{
+	-webkit-filter: grayscale(100%);
+}
+
+.press {
+	padding: 40px 40px 40px 40px;
+}
+
+.tour_gommage h5{
+	padding-bottom: 5px;
+}
+
+.tour_gommage span{
+	padding-bottom: 5px;
+}
+
+.container{
+	padding: 0px 0px 0px 0px;
+}

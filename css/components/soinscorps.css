@@ -1,18 +1,37 @@
-
-
 .gommage_container{
-padding: 40px 40px 40px 40px;
+padding: 40px 80px 40px 80px;
 background-color: #F4F7F8;
 }
 
-.enveloppement_container{
-padding: 40px 40px 40px 40px;
+.gommage_container img{
+	width: 200px;
 }
 
-.gommage_container p{
-padding-bottom: 30px;
+.enveloppement_container img{
+	width: 200px;
+}
+
+
+.enveloppement_container{
+padding: 60px 60px 60px 60px;
 }
 
 .enveloppement_container p{
 padding-bottom: 30px;
+}
+
+.tour_gommage{
+    background: #FFF;
+    border-radius: 6px;
+    border: solid 2px #e9f0f3;
+    padding: 10px 10px 10px 10px;
+    min-height: auto;
+    position: relative;
+    overflow: hidden;
+    margin: 40px 10px 10px 10px;
+}
+
+.tour_gommage p{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }

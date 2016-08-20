@@ -1,6 +1,6 @@
-.cardrituels{
-	padding: 40px 40px 40px 40px;
+.container_gris{
 	background-color: #F4F7F8;
+    padding: 40px 40px 40px 40px;
 }
 
 .cardrituels img{
@@ -13,15 +13,42 @@
     border-radius: 6px;
     border: solid 2px #e9f0f3;
     padding: 10px 10px 10px 10px;
-    min-height: 290px;
+    min-height: auto;
     position: relative;
     overflow: hidden;
-    margin: 10px 10px 10px 10px;
+    margin-bottom: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+    display: block;
 }
 
 .tour p{
     margin-top: 30px;
     margin-bottom: 40px;
 }
+
+.tour_gris{
+    background: #F4F7F8;
+    border-radius: 6px;
+    border: solid 2px #e9f0f3;
+    padding: 10px 10px 10px 10px;
+    min-height: auto;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 

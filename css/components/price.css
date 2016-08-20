@@ -1,0 +1,21 @@
+.label-default{
+    background-color: #FF6F69;
+    border-radius: 10px;
+    position: relative;
+    color: #FFF;
+    border: solid 2px #e9f0f3;
+    top: -9px;
+    left: 0px;
+    font-size: 12px;
+}
+
+.label-default2{
+    background-color: #FF6F69;
+    border-radius: 10px;
+    position: relative;
+    color: #FFF;
+    border: solid 2px #e9f0f3;
+    top: -10px;
+    left: -10px;
+    font-size: 12px;
+}

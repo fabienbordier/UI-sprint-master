@@ -1,7 +1,8 @@
 .footer{
-	background-color: #FFF;
+	background-color: #6AD58B;
 	padding: 40px 40px 40px 40px;
-	
+	position: absolute;
+	width: 100%;
 }
 
 .footer img{
@@ -11,4 +12,39 @@
 .social a{
 	color:#6AD58B;
 	font-size: 18px;
+}
+
+.footer p{
+	color:white;
+	font-size: 14px;
+	line-height: 1;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.footer h3{
+	color:white;
+	padding-bottom: 0px;
+}
+
+.footer a{
+	color: white;
+}
+
+.footer li{
+	padding-right: 20px;
+	list-style-type:none;
+}
+
+.love img{
+	width: 30px;
+}
+
+.love li{
+	padding-right: 0px;
+	text-decoration: none;
+}
+
+.footer div{
+	padding-bottom: 10px;
 }
